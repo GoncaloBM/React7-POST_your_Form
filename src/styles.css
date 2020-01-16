@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.filmForm {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.filmForm form fieldset {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
